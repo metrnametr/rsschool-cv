@@ -1,4 +1,4 @@
-# my resume
+# My resume
 1. Alex Makarenko
 2. You can contact with me :
 - email: patronius1515@gmail.com
@@ -24,11 +24,15 @@
 ### Version
 - gitlab
 - github
-5. Code example: [GitHub](@metrnametr)
+5. Code example:
+- [GitHub](@metrnametr)
+- [CodeWars](https://www.codewars.com/users/metrnametr)
 6. Exp:
 - [GitHub](@metrnametr)
-- freelance project: [f*cWindow](https://prostokna.ru/)
-- [bots](https://dev-console.cognitivebot.io/login) - i am working for this project two month
+- [f*cWindow](https://prostokna.ru/) - freelance project
+- [Bots](https://dev-console.cognitivebot.io/login) and [Search](https://search.cognitivebot.io/login) - i am working for this projects two month
+- [ResumeTutBy](https://gomel.jobs.tut.by/applicant/resumes/view?resume=d394ba6bff062060cf0039ed1f556578614574)
+- [JustFreelance](https://freelance.ru/patronius1515)
 7. Education:
 - html academy: [MyProgress](https://htmlacademy.ru/profile/id691805)
 - [LoveGuys](https://coursehunter.net/)
