@@ -24,14 +24,14 @@
 ### Version
 - gitlab
 - github
-5. Code example: @metrnametr
+5. Code example: [GitHub](@metrnametr)
 6. Exp:
-- @metrnametr
-- prostokna.ru
-- dev-console.cognitivebot.io/ -- i am working for this project two month
+- [GitHub](@metrnametr)
+- freelance project: [f*cWindow](https://prostokna.ru/)
+- [bots](https://dev-console.cognitivebot.io/login) -- i am working for this project two month
 7. Education:
-- html academy: https://htmlacademy.ru/profile/id691805
-- coursehunter.net
+- html academy: [MyProgress](https://htmlacademy.ru/profile/id691805)
+- [LoveGuys](https://coursehunter.net/)
 - im study in SKORYNA
 8. English:
 - listen english musik: pinkfloyd, rediohead .etc and watching film for english lang.
