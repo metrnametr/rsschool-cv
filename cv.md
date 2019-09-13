@@ -3,7 +3,7 @@
 2. You can contact with me :
 - email: patronius1515@gmail.com
 - telegram: @Fedyadobrovol
-3. Hey, i am study web devoloping one years. I am love study. Code is my freedom. Code is my life.
+3. Hey, i am study web development one years. I am love study. Code is my freedom. Code is my life.
 4. My dev skills:
 ### Back-end
 - node js (express)
@@ -28,10 +28,10 @@
 6. Exp:
 - [GitHub](@metrnametr)
 - freelance project: [f*cWindow](https://prostokna.ru/)
-- [bots](https://dev-console.cognitivebot.io/login) -- i am working for this project two month
+- [bots](https://dev-console.cognitivebot.io/login) - i am working for this project two month
 7. Education:
 - html academy: [MyProgress](https://htmlacademy.ru/profile/id691805)
 - [LoveGuys](https://coursehunter.net/)
 - im study in SKORYNA
 8. English:
-- listen english musik: pinkfloyd, rediohead .etc and watching film for english lang.
+- listen english music: pinkfloyd, rediohead .etc and watching film for english lang.
