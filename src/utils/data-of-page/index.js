@@ -1,4 +1,4 @@
-[
+export default [
     {
         "tag": "div",
         "attribute": {
@@ -46,8 +46,7 @@
                     {
                         "tag": "div",
                         "attribute": {
-                            "class": "resume--image",
-                            "src": "./assert/image/my-pic.jpg"
+                            "class": "resume--image"
                         },
                         "text": "",
                         "childNodes": [
@@ -55,7 +54,7 @@
                                 "tag": "img",
                                 "attribute": {
                                     "class": "image--my-photo",
-                                    "src": "./assert/image/my-pic.jpg"
+                                    "src": "dist/assert/image/my-pic.jpg"
                                 },
                                 "text": "",
                                 "childNodes": [

@@ -4,7 +4,7 @@ const path = require('path');
 module.exports = {
     entry: './src/index.js',
     output: {
-        filename: 'bandle.js',
+        filename: 'app.bandle.js',
         path: path.resolve(__dirname, 'dist'),
     },
     module: {

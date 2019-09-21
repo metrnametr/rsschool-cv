@@ -1,6 +1,6 @@
-const parseJson = (json) => {
-    return JSON.parse(json);
-};
+// const parseJson = (json) => {
+//     return JSON.parse(json);
+// };
 
 const createElement = ({ tag, attribute = {}, childNodes = [], text = '' }) => {
     const element = document.createElement(tag);
@@ -42,7 +42,7 @@ const eachElements = (elements) => {
 export default (jsonStructure) => {
     const root = document.getElementById('root');
     // const structurePage = parseJson(jsonStructure);
-    structurePage.forEach(it => {
+    jsonStructure.forEach(it => {
       const element = createElement(it);
       root.appendChild(element);
     });
