@@ -36,7 +36,7 @@ export default [
                                     "class": "pre--title",
                                     "style": "color: white;"
                                 },
-                                "text": "I dont want to rain myself.",
+                                "text": "I dont want to ruin myself.",
                                 "childNodes": [
                                     
                                 ]
